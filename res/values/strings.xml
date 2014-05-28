@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LowfreqLivecardDemo</string>
+    <string name="home_team">Home team</string>
+    <string name="away_team">Away team</string>
+    <string name="game_quarter">Game quarter</string>
+
+</resources>
